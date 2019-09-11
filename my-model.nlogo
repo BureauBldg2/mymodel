@@ -1,4 +1,4 @@
-;simple test model for TREVIS APP
+;simple test model for TREVIS APP no.2
 
 to setup
   clear-all
