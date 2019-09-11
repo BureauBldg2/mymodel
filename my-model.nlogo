@@ -1,3 +1,5 @@
+;simple test model for TREVIS APP
+
 to setup
   clear-all
   create-turtles 10 [
